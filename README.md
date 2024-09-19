@@ -91,4 +91,3 @@ If you plan to distribute the `.pkg` file online, it’s recommended to **code-s
 
 You now have a `.pkg` installer that macOS users can use to install your Python-based application in their `/Applications` directory. Optionally, sign and notarize the package for wider distribution.
 
-```
