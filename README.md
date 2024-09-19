@@ -1,7 +1,6 @@
 # auto_typer_gui
 A Simple gui autotyper with necessary features. 
 
-Here’s a Markdown-formatted instruction guide that macOS users can follow to convert the provided Python script into a `.pkg` installer file:
 
 
 # For MacOS users - Convert Python Script to `.pkg` Installer on macOS
